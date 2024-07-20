@@ -5,7 +5,7 @@
 
 <h2>Description</h2>
 Basic login and registration system implemented using ASP.Net core and Razor pages with SQL server for database.
-(Detailed documentation available as .docx)
+(Detailed documentation uploaded as .docx)
 
 <h2>Languages and Utilities Used</h2>
 
