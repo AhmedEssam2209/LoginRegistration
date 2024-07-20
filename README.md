@@ -21,16 +21,24 @@ Basic login and registration system implemented using ASP.Net core and Razor pag
 <h2>Screenshots :</h2>
 
 <p align="center">
-Assembler: <br/>
-<img src="https://imgur.com/8hkbcDQ.png" height="80%" width="80%" alt=""/>
+Login Page: <br/>
+<img src="https://imgur.com/yQ5xe55.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Pipeline (.io file in repo):  <br/>
-<img src="https://imgur.com/XwJcOSd.png" height="80%" width="80%" alt=""/>
+Home Page:  <br/>
+<img src="https://imgur.com/cr72bDA.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Waveform on modelsim:  <br/>
-<img src="https://imgur.com/RPwICuh.png" height="80%" width="80%" alt=""/>
+Register Page:  <br/>
+<img src="https://imgur.com/gUyMO7T.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+Logout Page:  <br/>
+<img src="https://imgur.com/8Nq8TJU.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+Database Entries:  <br/>
+<img src="https://imgur.com/YDkmhwN.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 
