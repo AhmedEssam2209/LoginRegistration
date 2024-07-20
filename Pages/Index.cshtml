@@ -1,0 +1,13 @@
+﻿@page
+@using System.Security.Claims
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p> Username : @User.FindFirstValue(ClaimTypes.Name); </p>
+    <p> Email : @User.FindFirstValue(ClaimTypes.Email); </p>
+
+</div>
